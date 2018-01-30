@@ -20,5 +20,10 @@ body{
 
 .projects{
         display:inline-block;
+       
+}
 
+.center {
+    margin: auto;
+    width: 90%;
 }
